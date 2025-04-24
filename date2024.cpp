@@ -1,4 +1,4 @@
-//should work for DATE initial/refinement, something is wrong with cutsize++
+//should work for DATE initial/refinement
 #include <iostream>
 #include <fstream>
 #include <vector>
